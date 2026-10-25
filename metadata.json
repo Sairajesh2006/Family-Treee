@@ -1,0 +1,6 @@
+{
+  "name": "Amrutapu Family",
+  "description": "Interactive responsive family tree for the Amrutapu family, created by Amrutapu Sai Rajesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

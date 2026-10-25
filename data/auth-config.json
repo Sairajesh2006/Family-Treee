@@ -1,0 +1,19 @@
+{
+  "ownerEmail": "sairajeshamrutapu@gmail.com",
+  "passcodeHash": "7bb3660e930764d7bad25c08c615fecbe1b14b269db3220069c04c1a02b47793c8597fd5827757abe258f029c466a9a48495779f82a03a8d7b143646ab87a714",
+  "passcodeSalt": "d8063bc022d5ebe2e4265313084a243d",
+  "activeSessions": {
+    "f8390218143309a253871f6123d188efa8aca6bff32dcdd0c7880b8cfd9a629c": {
+      "email": "sairajeshamrutapu@gmail.com",
+      "createdAt": 1792904589839
+    },
+    "94226eaf38479ec1ff141b420dc916ea88754bdbed4129e2f45633c2b4d5a466": {
+      "email": "sairajeshamrutapu@gmail.com",
+      "createdAt": 1792912861709
+    },
+    "6a2e28593a2d34ac16d9a9a052221492a28fb10c507dba950475d885e9b42f98": {
+      "email": "sairajeshamrutapu@gmail.com",
+      "createdAt": 1792912870417
+    }
+  }
+}
